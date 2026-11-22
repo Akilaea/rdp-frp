@@ -1,0 +1,6 @@
+﻿RDP over frp - long-lived run 45065776031
+Address : 47.98.228.129:42848
+Username: RDP
+Password: stored in repository secret RDP_PASSWORD
+Started : 2026-11-22T20:19:46.7897470+00:00
+Run URL : https://github.com/Akilaea/rdp-frp/actions/runs/45065776031
